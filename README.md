@@ -31,6 +31,9 @@
 <Model_2>
 1. Model
 
+![모델2](https://user-images.githubusercontent.com/56347876/121781959-4411d980-cbe2-11eb-9d96-878c439ad9a2.PNG)
+
+
 ![모델2-입력](https://user-images.githubusercontent.com/56347876/121781033-f1ceb980-cbdd-11eb-99ca-76c965d5c1c3.PNG)
 
 
@@ -48,7 +51,7 @@
 
 5. Images and corresponding probability that predicted Wrong
 
-![모델2-출력4](https://user-images.githubusercontent.com/56347876/121781055-09a63d80-cbde-11eb-9c83-3cadaa2af2f0.PNG)
+![23222](https://user-images.githubusercontent.com/56347876/121781965-483df700-cbe2-11eb-8c12-fe5aeed1345b.PNG)
 
 
 
