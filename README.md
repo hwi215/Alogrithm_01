@@ -26,6 +26,8 @@
 
 
 
+
+
 <Model_2>
 1. Model
 
@@ -50,13 +52,30 @@
 
 
 
+
+
 <Model_3>
 1. Model
 
 ![모델3](https://user-images.githubusercontent.com/56347876/121781498-08761000-cbe0-11eb-8602-421dc31bb8f9.PNG)
 
-3. Training with Training loss
-4. Test Accuracy
-5. Images and corresponding probability that predicted Right
+![33333](https://user-images.githubusercontent.com/56347876/121781724-16786080-cbe1-11eb-918d-9c348693a383.PNG)
+
+2. Training with Training loss
+
+![모델3-출력1](https://user-images.githubusercontent.com/56347876/121781734-209a5f00-cbe1-11eb-9ff4-a585821682b2.PNG)
+
+3. Test Accuracy
+
+![모델3-출력2](https://user-images.githubusercontent.com/56347876/121781737-24c67c80-cbe1-11eb-88c1-9806fdf87bd6.PNG)
+
+
+4. Images and corresponding probability that predicted Right
+
+![모델3-출력3](https://user-images.githubusercontent.com/56347876/121781740-285a0380-cbe1-11eb-9bfa-3b822d7692da.PNG)
+
 
 5. Images and corresponding probability that predicted Wrong
+
+![모델3-출력4](https://user-images.githubusercontent.com/56347876/121781746-2b54f400-cbe1-11eb-8f8d-5c801f9b84d7.PNG)
+
